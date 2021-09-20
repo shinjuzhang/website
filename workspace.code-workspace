@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../Desktop/Website"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../MyPortfolio"
+		},
+		{
+			"path": "../../Documents/Projects/chrlng.github.io-master"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "portfolio"
+	}
+}
